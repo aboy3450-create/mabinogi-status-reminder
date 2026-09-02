@@ -6,7 +6,7 @@ Windows 版《新瑪奇》狀態、技能冷卻、破防與 G27 王機制提醒�
 
 ## 下載
 
-不需要自行編譯，請到 [Releases](../../releases/latest) 下載最新的 `狀態提醒器-事件紀錄移位-v13.55-單檔.zip`，解壓縮後執行 `新瑪奇狀態提醒器.exe`。
+不需要自行編譯，請到 [Releases](../../releases/latest) 下載最新的 `mabinogi-status-reminder-v13.55-win-x64.zip`，解壓縮後執行 `新瑪奇狀態提醒器.exe`。
 
 ## 使用需求
 
