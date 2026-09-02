@@ -1,0 +1,15 @@
+bin/
+obj/
+publish*/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.exe
+*.zip
+*.pcap
+*.pcapng
+logs/
+captures/
+appsettings*.json
